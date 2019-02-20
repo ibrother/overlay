@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>ibrother</name>
+    <description>gentoo overlay for personal use</description>
+    <homepage>https://ibrother.me/</homepage>
+    <owner type="project">
+      <email>ibrother.linux@gmail.com</email>
+      <name>ibrother</name>
+    </owner>
+    <source type="git">git://github.com/ibrother/overlays.git</source>
+  </repo>
+</repositories>
